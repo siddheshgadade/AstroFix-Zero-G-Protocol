@@ -10,13 +10,6 @@
 
 **AstroFix: Zero-G Protocol** is an interactive browser-based simulation of a futuristic zero-gravity spaceship repair sequence. Developed as an HCI mini-project, this application completely replaces traditional hardware inputs (keyboard/mouse) with **Hand Tracking** and a **Voice User Interface (VUI)**, allowing users to operate complex virtual systems just like an astronaut would.
 
----
-
-## 📸 Project Demo
-*(Pro-Tip: Insert a .gif or a screenshot of your application running here to immediately grab attention!)* `![AstroFix Gameplay Demo](path/to/demo.gif)`
-
----
-
 ## ✨ Multimodal Interaction Features
 
 * **✋ Active Hand Tracking (MediaPipe):** Your physical hand acts as a virtual joystick. Move your hand to seamlessly rotate the VR camera in a full 360-degree environment.
